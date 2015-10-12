@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
+body {
+  padding-top: 30px;
+  background-image: url("/Users/kcoulter/Documents/codechallenges/LatinumNetwork/images/parenthesis .jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+h1 {
+  margin: 5px;
+  text-align: center;
+  text-transform: uppercase;
+}
+form input, form label, form textarea{
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+}
+label {
+  font-size: 25px;
+  color: #666;
+}
+#submit {
+  padding: 5px;
+}
+#response {
+  font-style: italic;
+  text-align: center;
+  margin-top: 115px;
+  font-size: 23px;
+}
